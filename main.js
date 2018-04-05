@@ -1,6 +1,4 @@
 function Fonction1() {
-document.getElementById('elements').style.display='block';
+	document.getElementById('tuss').style.display='none';
 }
-function Fonction2() {
-document.getElementById('tuss').style.visibility='hidden';
-}
+

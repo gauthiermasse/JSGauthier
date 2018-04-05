@@ -48,7 +48,13 @@ li {
 
 
 
+#tuss {
+	position: absolute;
+	height: 210px;
+	width: 500px;
+	margin-left: 200px;
 
+	}
 
 
 
@@ -56,7 +62,7 @@ li {
 #elements {
 	display: inline-block;
 	text-align: center;
-	
+	margin-left: 200px;
 }
 
 
